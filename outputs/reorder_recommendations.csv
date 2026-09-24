@@ -1,0 +1,21 @@
+sku_id,product_name,category,abc_class,unit_price,unit_cost,supplier_id,lead_time_days,lead_time_weeks,avg_forecast_weekly,quarterly_forecast_demand,annual_forecast_demand,demand_stddev_weekly,safety_stock,reorder_point,current_stock,eoq,risk_status,units_at_risk,revenue_at_risk,recommended_order_qty,test_rmse,test_mae,test_mape_pct
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,A,279.99,126.0,SUP-101,13.6,1.94,130.9,1702.0,6808.0,34.22,79,334,163,205,HIGH RISK,171,47878.29,205,36.61,34.8,21.95
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,A,349.99,168.0,SUP-101,13.6,1.94,120.1,1561.0,6244.0,23.97,56,289,238,163,HIGH RISK,51,17849.49,163,18.37,16.08,14.86
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,A,499.0,259.48,SUP-107,17.6,2.51,63.7,828.0,3312.0,12.13,32,192,96,111,HIGH RISK,96,47904.0,111,11.51,8.99,18.91
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,A,389.0,194.5,SUP-107,17.6,2.51,75.5,982.0,3927.0,15.3,40,230,396,139,HEALTHY,0,0.0,0,10.21,8.37,12.55
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,A,399.99,188.0,SUP-108,14.6,2.08,77.4,1006.0,4024.0,19.67,47,209,172,121,HIGH RISK,37,14799.63,121,22.22,19.63,22.94
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,A,449.5,206.77,SUP-108,14.6,2.08,69.4,902.0,3607.0,18.52,45,190,239,110,HEALTHY,0,0.0,0,24.97,21.24,30.62
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,A,249.0,99.6,SUP-105,11.5,1.65,123.4,1604.0,6416.0,35.07,75,279,384,205,HEALTHY,0,0.0,0,23.62,20.5,21.38
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,A,289.0,121.38,SUP-106,9.5,1.35,59.9,779.0,3115.0,28.29,55,136,265,131,HEALTHY,0,0.0,0,15.43,12.76,18.67
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,A,155.0,58.9,SUP-105,11.5,1.65,145.3,1888.0,7554.0,30.51,65,305,597,289,HEALTHY,0,0.0,0,13.01,9.47,8.01
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,A,179.99,81.0,SUP-108,14.6,2.08,132.5,1722.0,6890.0,34.94,84,360,321,241,HIGH RISK,39,7019.61,241,49.74,45.77,28.2
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,A,169.99,71.4,SUP-104,27.5,3.92,134.3,1746.0,6983.0,36.9,121,649,377,353,HIGH RISK,272,46237.28,353,52.87,48.3,29.98
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,A,329.99,165.0,SUP-102,20.6,2.94,69.4,902.0,3608.0,19.74,56,261,308,142,HEALTHY,0,0.0,0,25.58,23.82,27.37
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,A,369.0,169.74,SUP-106,9.5,1.35,43.0,559.0,2234.0,19.19,37,96,49,89,HIGH RISK,47,17343.0,89,6.2,4.48,11.91
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,A,199.0,83.58,SUP-101,13.6,1.94,94.0,1222.0,4889.0,27.76,64,247,395,213,HEALTHY,0,0.0,0,30.15,25.47,19.46
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,A,289.0,127.16,SUP-105,11.5,1.65,60.6,788.0,3152.0,8.31,18,118,146,127,HEALTHY,0,0.0,0,11.8,10.28,16.06
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,A,189.5,83.38,SUP-106,9.5,1.35,75.7,984.0,3935.0,30.14,58,161,94,178,HIGH RISK,67,12696.5,178,13.42,10.58,13.38
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,A,129.99,52.0,SUP-104,27.5,3.92,132.8,1726.0,6905.0,14.49,48,570,1158,432,HEALTHY,0,0.0,0,15.07,12.86,11.08
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,A,299.0,143.52,SUP-108,14.6,2.08,55.1,716.0,2864.0,14.05,34,149,267,123,HEALTHY,0,0.0,0,15.0,12.87,23.32
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,A,95.0,33.25,SUP-105,11.5,1.65,209.3,2721.0,10883.0,57.09,121,466,579,487,HEALTHY,0,0.0,0,28.02,24.2,13.55
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,A,119.5,45.41,SUP-107,17.6,2.51,116.0,1507.0,6029.0,14.72,39,330,529,375,HEALTHY,0,0.0,0,13.75,11.5,10.97

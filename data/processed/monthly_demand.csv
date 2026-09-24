@@ -1,0 +1,1201 @@
+sku_id,product_name,category,month_start,units_sold,monthly_revenue,order_count
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,2023-01-01,416,116475.84,17
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,2023-02-01,396,110876.04,19
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,2023-03-01,394,110316.06,15
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,2023-04-01,404,113115.96,16
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,2023-05-01,441,123475.59,17
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,2023-06-01,446,124875.54000000001,20
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,2023-07-01,375,104996.25,18
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,2023-08-01,455,127395.45,15
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,2023-09-01,467,130755.33,15
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,2023-10-01,492,137755.08,16
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,2023-11-01,799,223712.01,21
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,2023-12-01,756,211672.44,17
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,2024-01-01,441,123475.59,19
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,2024-02-01,424,118715.76,15
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,2024-03-01,499,139715.01,17
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,2024-04-01,431,120675.69,20
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,2024-05-01,406,113675.94,18
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,2024-06-01,522,146154.78,18
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,2024-07-01,521,145874.79,19
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,2024-08-01,460,128795.40000000001,17
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,2024-09-01,521,145874.79,19
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,2024-10-01,513,143634.87,20
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,2024-11-01,783,219232.17,15
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,2024-12-01,827,231551.73,17
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,2023-01-01,456,159595.44,18
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,2023-02-01,635,222243.65,19
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,2023-03-01,274,95897.26,15
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,2023-04-01,327,114446.73,17
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,2023-05-01,311,108846.89,17
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,2023-06-01,321,112346.79,21
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,2023-07-01,336,117596.64,18
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,2023-08-01,323,113046.77,19
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,2023-09-01,391,136846.09,16
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,2023-10-01,293,102547.06999999999,14
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,2023-11-01,493,172545.07,18
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,2023-12-01,506,177094.94,17
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,2024-01-01,620,216993.8,18
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,2024-02-01,560,195994.4,15
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,2024-03-01,321,112346.79,17
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,2024-04-01,376,131596.24,17
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,2024-05-01,348,121796.52,18
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,2024-06-01,347,121446.53,16
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,2024-07-01,334,116896.66,15
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,2024-08-01,366,128096.34,17
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,2024-09-01,365,127746.35,17
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,2024-10-01,427,149445.73,18
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,2024-11-01,530,185494.7,17
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,2024-12-01,448,156795.52,14
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,2023-01-01,336,130704,17
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,2023-02-01,281,109309,17
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,2023-03-01,263,102307,19
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,2023-04-01,279,108531,15
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,2023-05-01,308,119812,17
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,2023-06-01,286,111254,17
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,2023-07-01,307,119423,15
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,2023-08-01,408,158712,19
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,2023-09-01,400,155600,15
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,2023-10-01,257,99973,18
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,2023-11-01,303,117867,19
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,2023-12-01,265,103085,19
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,2024-01-01,412,160268,18
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,2024-02-01,301,117089,15
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,2024-03-01,299,116311,16
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,2024-04-01,302,117478,16
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,2024-05-01,325,126425,18
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,2024-06-01,236,91804,17
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,2024-07-01,311,120979,21
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,2024-08-01,381,148209,19
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,2024-09-01,371,144319,17
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,2024-10-01,359,139651,20
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,2024-11-01,302,117478,15
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,2024-12-01,304,118256,16
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,2023-01-01,319,159181,19
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,2023-02-01,197,98303,16
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,2023-03-01,195,97305,18
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,2023-04-01,221,110279,14
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,2023-05-01,229,114271,19
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,2023-06-01,236,117764,17
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,2023-07-01,228,113772,18
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,2023-08-01,281,140219,17
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,2023-09-01,311,155189,17
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,2023-10-01,198,98802,17
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,2023-11-01,228,113772,21
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,2023-12-01,228,113772,17
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,2024-01-01,330,164670,21
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,2024-02-01,214,106786,14
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,2024-03-01,284,141716,21
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,2024-04-01,263,131237,17
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,2024-05-01,232,115768,21
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,2024-06-01,196,97804,15
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,2024-07-01,241,120259,16
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,2024-08-01,324,161676,18
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,2024-09-01,293,146207,16
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,2024-10-01,286,142714,20
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,2024-11-01,222,110778,14
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,2024-12-01,225,112275,18
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,2023-01-01,222,99789.0,20
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,2023-02-01,196,88102.0,14
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,2023-03-01,239,107430.5,19
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,2023-04-01,200,89900.0,17
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,2023-05-01,252,113274.0,19
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,2023-06-01,228,102486.0,14
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,2023-07-01,237,106531.5,19
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,2023-08-01,199,89450.5,16
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,2023-09-01,212,95294.0,19
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,2023-10-01,229,102935.5,19
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,2023-11-01,331,148784.5,16
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,2023-12-01,441,198229.5,19
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,2024-01-01,217,97541.5,16
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,2024-02-01,199,89450.5,15
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,2024-03-01,254,114173.0,17
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,2024-04-01,231,103834.5,18
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,2024-05-01,259,116420.5,18
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,2024-06-01,244,109678.0,17
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,2024-07-01,267,120016.5,15
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,2024-08-01,265,119117.5,19
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,2024-09-01,291,130804.5,16
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,2024-10-01,212,95294.0,14
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,2024-11-01,387,173956.5,15
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,2024-12-01,451,202724.5,15
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,2023-01-01,222,88797.78,18
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,2023-02-01,211,84397.89,12
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,2023-03-01,267,106797.33,17
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,2023-04-01,290,115997.1,18
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,2023-05-01,252,100797.48,21
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,2023-06-01,279,111597.21,19
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,2023-07-01,234,93597.66,14
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,2023-08-01,261,104397.39,16
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,2023-09-01,257,102797.43000000001,20
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,2023-10-01,247,98797.53,19
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,2023-11-01,478,191195.22,17
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,2023-12-01,433,173195.67,16
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,2024-01-01,282,112797.18000000001,18
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,2024-02-01,290,115997.1,18
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,2024-03-01,270,107997.3,17
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,2024-04-01,238,95197.62,19
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,2024-05-01,259,103597.41,15
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,2024-06-01,313,125196.87000000001,18
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,2024-07-01,296,118397.04000000001,18
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,2024-08-01,302,120796.98,16
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,2024-09-01,281,112397.19,20
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,2024-10-01,302,120796.98,23
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,2024-11-01,499,199595.01,17
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,2024-12-01,394,157596.06,15
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,2023-01-01,241,69649,13
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,2023-02-01,233,67337,20
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,2023-03-01,279,80631,18
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,2023-04-01,269,77741,19
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,2023-05-01,501,144789,17
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,2023-06-01,516,149124,15
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,2023-07-01,550,158950,19
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,2023-08-01,512,147968,17
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,2023-09-01,287,82943,17
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,2023-10-01,265,76585,15
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,2023-11-01,265,76585,21
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,2023-12-01,239,69071,17
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,2024-01-01,273,78897,18
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,2024-02-01,240,69360,15
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,2024-03-01,322,93058,20
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,2024-04-01,250,72250,16
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,2024-05-01,419,121091,20
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,2024-06-01,602,173978,20
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,2024-07-01,479,138431,18
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,2024-08-01,433,125137,15
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,2024-09-01,262,75718,18
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,2024-10-01,251,72539,16
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,2024-11-01,293,84677,19
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,2024-12-01,269,77741,19
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,2023-01-01,281,53249.5,16
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,2023-02-01,311,58934.5,17
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,2023-03-01,301,57039.5,16
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,2023-04-01,281,53249.5,15
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,2023-05-01,527,99866.5,18
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,2023-06-01,530,100435.0,19
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,2023-07-01,639,121090.5,20
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,2023-08-01,464,87928.0,17
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,2023-09-01,386,73147.0,19
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,2023-10-01,275,52112.5,17
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,2023-11-01,283,53628.5,18
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,2023-12-01,306,57987.0,17
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,2024-01-01,277,52491.5,17
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,2024-02-01,277,52491.5,15
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,2024-03-01,352,66704.0,21
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,2024-04-01,338,64051.0,16
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,2024-05-01,474,89823.0,15
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,2024-06-01,648,122796.0,18
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,2024-07-01,687,130186.5,20
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,2024-08-01,501,94939.5,17
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,2024-09-01,301,57039.5,14
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,2024-10-01,332,62914.0,18
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,2024-11-01,316,59882.0,17
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,2024-12-01,321,60829.5,20
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,2023-01-01,454,70370,20
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,2023-02-01,444,68820,17
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,2023-03-01,587,90985,18
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,2023-04-01,774,119970,18
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,2023-05-01,650,100750,17
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,2023-06-01,777,120435,20
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,2023-07-01,752,116560,16
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,2023-08-01,704,109120,16
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,2023-09-01,516,79980,18
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,2023-10-01,482,74710,20
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,2023-11-01,512,79360,14
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,2023-12-01,454,70370,15
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,2024-01-01,518,80290,19
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,2024-02-01,418,64790,15
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,2024-03-01,773,119815,18
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,2024-04-01,849,131595,21
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,2024-05-01,677,104935,16
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,2024-06-01,709,109895,16
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,2024-07-01,764,118420,16
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,2024-08-01,784,121520,20
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,2024-09-01,606,93930,20
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,2024-10-01,523,81065,18
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,2024-11-01,484,75020,17
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,2024-12-01,469,72695,16
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,2023-01-01,572,142428,18
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,2023-02-01,523,130227,14
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,2023-03-01,433,107817,19
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,2023-04-01,367,91383,16
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,2023-05-01,383,95367,16
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,2023-06-01,247,61503,19
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,2023-07-01,250,62250,17
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,2023-08-01,245,61005,20
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,2023-09-01,383,95367,19
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,2023-10-01,328,81672,18
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,2023-11-01,591,147159,18
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,2023-12-01,622,154878,21
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,2024-01-01,711,177039,17
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,2024-02-01,578,143922,19
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,2024-03-01,358,89142,15
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,2024-04-01,342,85158,16
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,2024-05-01,336,83664,16
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,2024-06-01,285,70965,17
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,2024-07-01,226,56274,16
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,2024-08-01,290,72210,17
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,2024-09-01,341,84909,15
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,2024-10-01,359,89391,21
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,2024-11-01,558,138942,17
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,2024-12-01,575,143175,19
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,2023-01-01,414,70375.86,20
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,2023-02-01,383,65106.17,17
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,2023-03-01,487,82785.13,15
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,2023-04-01,436,74115.64,18
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,2023-05-01,408,69355.92,16
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,2023-06-01,476,80915.24,21
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,2023-07-01,476,80915.24,16
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,2023-08-01,462,78535.38,18
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,2023-09-01,523,88904.77,18
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,2023-10-01,442,75135.58,20
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,2023-11-01,806,137011.94,15
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,2023-12-01,857,145681.43,17
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,2024-01-01,504,85674.95999999999,20
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,2024-02-01,396,67316.04,17
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,2024-03-01,449,76325.51,16
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,2024-04-01,465,79045.35,15
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,2024-05-01,539,91624.61,22
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,2024-06-01,439,74625.61,19
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,2024-07-01,519,88224.81,20
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,2024-08-01,510,86694.9,18
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,2024-09-01,468,79555.32,15
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,2024-10-01,468,79555.32,19
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,2024-11-01,898,152651.02,19
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,2024-12-01,853,145001.47,19
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,2023-01-01,461,59925.39,16
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,2023-02-01,405,52645.95,15
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,2023-03-01,565,73444.35,22
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,2023-04-01,511,66424.89,15
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,2023-05-01,498,64735.020000000004,16
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,2023-06-01,487,63305.13,20
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,2023-07-01,480,62395.2,17
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,2023-08-01,589,76564.11,21
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,2023-09-01,455,59145.45,17
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,2023-10-01,495,64345.05,19
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,2023-11-01,459,59665.41,18
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,2023-12-01,590,76694.1,17
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,2024-01-01,607,78903.93,21
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,2024-02-01,516,67074.84,18
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,2024-03-01,548,71234.52,17
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,2024-04-01,501,65124.99,16
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,2024-05-01,579,75264.21,21
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,2024-06-01,508,66034.92,14
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,2024-07-01,460,59795.4,19
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,2024-08-01,555,72144.45,18
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,2024-09-01,558,72534.42,18
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,2024-10-01,488,63435.12,16
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,2024-11-01,561,72924.39,20
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,2024-12-01,496,64475.04,14
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,2023-01-01,182,60058.18,14
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,2023-02-01,234,77217.66,14
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,2023-03-01,221,72927.79,18
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,2023-04-01,211,69627.89,17
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,2023-05-01,248,81837.52,18
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,2023-06-01,219,72267.81,16
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,2023-07-01,199,65668.01,13
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,2023-08-01,251,82827.49,17
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,2023-09-01,255,84147.45,21
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,2023-10-01,255,84147.45,15
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,2023-11-01,423,139585.77,15
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,2023-12-01,404,133315.96,19
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,2024-01-01,234,77217.66,17
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,2024-02-01,222,73257.78,16
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,2024-03-01,243,80187.57,16
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,2024-04-01,234,77217.66,17
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,2024-05-01,265,87447.35,18
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,2024-06-01,249,82167.51,14
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,2024-07-01,247,81507.53,18
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,2024-08-01,274,90417.26,18
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,2024-09-01,237,78207.63,14
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,2024-10-01,239,78867.61,15
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,2024-11-01,405,133645.95,18
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,2024-12-01,522,172254.78,19
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,2023-01-01,405,48397.5,16
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,2023-02-01,471,56284.5,17
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,2023-03-01,472,56404.0,17
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,2023-04-01,405,48397.5,17
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,2023-05-01,502,59989.0,17
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,2023-06-01,380,45410.0,16
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,2023-07-01,438,52341.0,17
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,2023-08-01,498,59511.0,17
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,2023-09-01,457,54611.5,17
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,2023-10-01,510,60945.0,21
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,2023-11-01,508,60706.0,18
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,2023-12-01,430,51385.0,16
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,2024-01-01,523,62498.5,18
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,2024-02-01,420,50190.0,19
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,2024-03-01,500,59750.0,24
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,2024-04-01,489,58435.5,20
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,2024-05-01,489,58435.5,19
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,2024-06-01,433,51743.5,13
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,2024-07-01,421,50309.5,18
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,2024-08-01,528,63096.0,20
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,2024-09-01,525,62737.5,20
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,2024-10-01,556,66442.0,19
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,2024-11-01,434,51863.0,12
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,2024-12-01,462,55209.0,17
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,2023-01-01,357,64256.43,13
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,2023-02-01,448,80635.52,16
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,2023-03-01,421,75775.79,19
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,2023-04-01,428,77035.72,19
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,2023-05-01,435,78295.65,17
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,2023-06-01,494,88915.06,18
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,2023-07-01,422,75955.78,18
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,2023-08-01,436,78475.64,20
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,2023-09-01,455,81895.45,18
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,2023-10-01,422,75955.78,18
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,2023-11-01,709,127612.91,14
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,2023-12-01,811,145971.89,20
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,2024-01-01,370,66596.3,20
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,2024-02-01,494,88915.06,20
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,2024-03-01,494,88915.06,18
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,2024-04-01,438,78835.62,18
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,2024-05-01,445,80095.55,16
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,2024-06-01,445,80095.55,16
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,2024-07-01,432,77755.68000000001,18
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,2024-08-01,537,96654.63,18
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,2024-09-01,472,84955.28,19
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,2024-10-01,430,77395.7,18
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,2024-11-01,884,159111.16,18
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,2024-12-01,830,149391.7,15
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,2023-01-01,181,54119,15
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,2023-02-01,215,64285,22
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,2023-03-01,199,59501,17
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,2023-04-01,201,60099,18
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,2023-05-01,200,59800,18
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,2023-06-01,193,57707,19
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,2023-07-01,202,60398,16
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,2023-08-01,204,60996,19
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,2023-09-01,205,61295,19
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,2023-10-01,181,54119,18
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,2023-11-01,323,96577,16
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,2023-12-01,330,98670,18
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,2024-01-01,191,57109,14
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,2024-02-01,228,68172,17
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,2024-03-01,205,61295,18
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,2024-04-01,200,59800,16
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,2024-05-01,231,69069,18
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,2024-06-01,187,55913,17
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,2024-07-01,199,59501,21
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,2024-08-01,191,57109,18
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,2024-09-01,209,62491,18
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,2024-10-01,196,58604,17
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,2024-11-01,328,98072,17
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,2024-12-01,303,90597,15
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,2023-01-01,153,56457,19
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,2023-02-01,152,56088,17
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,2023-03-01,180,66420,18
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,2023-04-01,191,70479,14
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,2023-05-01,311,114759,19
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,2023-06-01,378,139482,19
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,2023-07-01,365,134685,15
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,2023-08-01,306,112914,18
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,2023-09-01,197,72693,21
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,2023-10-01,177,65313,18
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,2023-11-01,175,64575,18
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,2023-12-01,211,77859,21
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,2024-01-01,200,73800,20
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,2024-02-01,182,67158,16
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,2024-03-01,186,68634,18
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,2024-04-01,200,73800,17
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,2024-05-01,355,130995,20
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,2024-06-01,327,120663,16
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,2024-07-01,355,130995,20
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,2024-08-01,359,132471,15
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,2024-09-01,179,66051,18
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,2024-10-01,179,66051,20
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,2024-11-01,162,59778,16
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,2024-12-01,171,63099,18
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,2023-01-01,945,89775,14
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,2023-02-01,1033,98135,22
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,2023-03-01,654,62130,19
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,2023-04-01,528,50160,18
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,2023-05-01,614,58330,18
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,2023-06-01,459,43605,16
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,2023-07-01,375,35625,20
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,2023-08-01,420,39900,21
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,2023-09-01,533,50635,16
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,2023-10-01,658,62510,21
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,2023-11-01,878,83410,17
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,2023-12-01,1172,111340,17
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,2024-01-01,1040,98800,21
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,2024-02-01,1057,100415,21
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,2024-03-01,561,53295,16
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,2024-04-01,635,60325,16
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,2024-05-01,583,55385,13
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,2024-06-01,416,39520,17
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,2024-07-01,441,41895,18
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,2024-08-01,427,40565,17
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,2024-09-01,665,63175,17
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,2024-10-01,648,61560,16
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,2024-11-01,913,86735,18
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,2024-12-01,975,92625,18
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,2023-01-01,310,61690,20
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,2023-02-01,279,55521,13
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,2023-03-01,347,69053,16
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,2023-04-01,380,75620,14
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,2023-05-01,349,69451,18
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,2023-06-01,343,68257,16
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,2023-07-01,349,69451,17
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,2023-08-01,349,69451,18
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,2023-09-01,327,65073,16
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,2023-10-01,390,77610,18
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,2023-11-01,576,114624,15
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,2023-12-01,662,131738,15
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,2024-01-01,344,68456,18
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,2024-02-01,314,62486,13
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,2024-03-01,353,70247,20
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,2024-04-01,366,72834,21
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,2024-05-01,363,72237,17
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,2024-06-01,324,64476,15
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,2024-07-01,344,68456,15
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,2024-08-01,395,78605,19
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,2024-09-01,354,70446,17
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,2024-10-01,378,75222,15
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,2024-11-01,664,132136,18
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,2024-12-01,598,119002,17
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,2023-01-01,247,71383,16
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,2023-02-01,229,66181,17
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,2023-03-01,256,73984,16
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,2023-04-01,271,78319,20
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,2023-05-01,245,70805,18
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,2023-06-01,298,86122,20
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,2023-07-01,248,71672,17
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,2023-08-01,237,68493,19
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,2023-09-01,286,82654,18
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,2023-10-01,222,64158,16
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,2023-11-01,238,68782,18
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,2023-12-01,312,90168,20
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,2024-01-01,323,93347,21
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,2024-02-01,207,59823,15
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,2024-03-01,232,67048,18
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,2024-04-01,255,73695,18
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,2024-05-01,253,73117,19
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,2024-06-01,270,78030,19
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,2024-07-01,265,76585,20
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,2024-08-01,277,80053,16
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,2024-09-01,241,69649,16
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,2024-10-01,315,91035,20
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,2024-11-01,238,68782,14
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,2024-12-01,252,72828,13
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,2023-01-01,557,33414.43,17
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,2023-02-01,711,42652.89,16
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,2023-03-01,646,38753.54,17
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,2023-04-01,639,38333.61,17
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,2023-05-01,743,44572.57,17
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,2023-06-01,697,41813.03,19
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,2023-07-01,636,38153.64,17
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,2023-08-01,719,43132.81,19
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,2023-09-01,688,41273.12,15
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,2023-10-01,706,42352.94,16
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,2023-11-01,1218,73067.81999999999,17
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,2023-12-01,1281,76847.19,16
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,2024-01-01,650,38993.5,20
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,2024-02-01,621,37253.79,16
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,2024-03-01,729,43732.71,16
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,2024-04-01,698,41873.020000000004,16
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,2024-05-01,761,45652.39,18
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,2024-06-01,657,39413.43,18
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,2024-07-01,743,44572.57,18
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,2024-08-01,732,43912.68,18
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,2024-09-01,743,44572.57,22
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,2024-10-01,681,40853.19,15
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,2024-11-01,1221,73247.79000000001,20
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,2024-12-01,1133,67968.67,18
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,2023-01-01,477,38155.229999999996,14
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,2023-02-01,458,36635.42,12
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,2023-03-01,588,47034.12,18
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,2023-04-01,445,35595.549999999996,17
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,2023-05-01,905,72390.95,19
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,2023-06-01,813,65031.87,16
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,2023-07-01,1061,84869.39,21
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,2023-08-01,1016,81269.84,21
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,2023-09-01,462,36955.38,17
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,2023-10-01,522,41754.78,18
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,2023-11-01,545,43594.55,18
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,2023-12-01,468,37435.32,18
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,2024-01-01,499,39915.01,18
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,2024-02-01,489,39115.11,15
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,2024-03-01,462,36955.38,15
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,2024-04-01,545,43594.549999999996,15
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,2024-05-01,914,73110.86,15
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,2024-06-01,1022,81749.78,18
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,2024-07-01,1014,81109.86,17
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,2024-08-01,971,77670.29,16
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,2024-09-01,525,41994.75,15
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,2024-10-01,543,43434.57,22
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,2024-11-01,454,36315.46,16
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,2024-12-01,463,37035.37,15
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,2023-01-01,631,28395,18
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,2023-02-01,669,30105,16
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,2023-03-01,696,31320,17
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,2023-04-01,611,27495,19
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,2023-05-01,711,31995,18
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,2023-06-01,692,31140,16
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,2023-07-01,694,31230,14
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,2023-08-01,783,35235,21
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,2023-09-01,515,23175,14
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,2023-10-01,793,35685,21
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,2023-11-01,571,25695,14
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,2023-12-01,687,30915,17
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,2024-01-01,685,30825,19
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,2024-02-01,744,33480,16
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,2024-03-01,722,32490,18
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,2024-04-01,695,31275,17
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,2024-05-01,737,33165,19
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,2024-06-01,687,30915,20
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,2024-07-01,771,34695,16
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,2024-08-01,672,30240,15
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,2024-09-01,614,27630,15
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,2024-10-01,841,37845,22
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,2024-11-01,624,28080,17
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,2024-12-01,690,31050,17
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,2023-01-01,658,58562,14
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,2023-02-01,636,56604,15
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,2023-03-01,398,35422,19
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,2023-04-01,362,32218,20
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,2023-05-01,336,29904,19
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,2023-06-01,274,24386,20
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,2023-07-01,279,24831,19
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,2023-08-01,280,24920,17
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,2023-09-01,350,31150,20
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,2023-10-01,406,36134,17
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,2023-11-01,629,55981,16
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,2023-12-01,638,56782,13
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,2024-01-01,685,60965,21
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,2024-02-01,647,57583,20
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,2024-03-01,452,40228,17
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,2024-04-01,420,37380,14
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,2024-05-01,419,37291,19
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,2024-06-01,265,23585,17
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,2024-07-01,304,27056,19
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,2024-08-01,308,27412,18
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,2024-09-01,359,31951,15
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,2024-10-01,407,36223,17
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,2024-11-01,544,48416,18
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,2024-12-01,685,60965,16
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,2023-01-01,561,21598.5,16
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,2023-02-01,555,21367.5,17
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,2023-03-01,590,22715.0,16
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,2023-04-01,737,28374.5,17
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,2023-05-01,1102,42427.0,16
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,2023-06-01,1281,49318.5,16
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,2023-07-01,1323,50935.5,19
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,2023-08-01,1144,44044.0,18
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,2023-09-01,759,29221.5,18
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,2023-10-01,683,26295.5,18
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,2023-11-01,680,26180.0,17
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,2023-12-01,635,24447.5,16
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,2024-01-01,637,24524.5,13
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,2024-02-01,684,26334.0,16
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,2024-03-01,739,28451.5,16
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,2024-04-01,680,26180.0,20
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,2024-05-01,998,38423.0,18
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,2024-06-01,1345,51782.5,18
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,2024-07-01,1372,52822.0,18
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,2024-08-01,1169,45006.5,16
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,2024-09-01,738,28413.0,17
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,2024-10-01,613,23600.5,22
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,2024-11-01,609,23446.5,14
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,2024-12-01,612,23562.0,17
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,2023-01-01,385,32725,18
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,2023-02-01,327,27795,13
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,2023-03-01,411,34935,18
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,2023-04-01,414,35190,15
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,2023-05-01,449,38165,21
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,2023-06-01,338,28730,17
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,2023-07-01,394,33490,16
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,2023-08-01,336,28560,15
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,2023-09-01,437,37145,18
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,2023-10-01,352,29920,15
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,2023-11-01,637,54145,18
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,2023-12-01,682,57970,15
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,2024-01-01,374,31790,18
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,2024-02-01,333,28305,16
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,2024-03-01,459,39015,21
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,2024-04-01,402,34170,19
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,2024-05-01,415,35275,16
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,2024-06-01,391,33235,16
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,2024-07-01,359,30515,21
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,2024-08-01,461,39185,14
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,2024-09-01,374,31790,16
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,2024-10-01,397,33745,15
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,2024-11-01,639,54315,17
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,2024-12-01,655,55675,15
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,2023-01-01,660,27720,18
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,2023-02-01,667,28014,15
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,2023-03-01,747,31374,17
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,2023-04-01,786,33012,20
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,2023-05-01,1281,53802,15
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,2023-06-01,1480,62160,14
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,2023-07-01,1552,65184,18
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,2023-08-01,1340,56280,18
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,2023-09-01,770,32340,15
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,2023-10-01,793,33306,19
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,2023-11-01,853,35826,19
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,2023-12-01,770,32340,18
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,2024-01-01,772,32424,20
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,2024-02-01,731,30702,16
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,2024-03-01,833,34986,18
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,2024-04-01,701,29442,16
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,2024-05-01,1482,62244,18
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,2024-06-01,1516,63672,16
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,2024-07-01,1456,61152,16
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,2024-08-01,1609,67578,20
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,2024-09-01,733,30786,16
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,2024-10-01,834,35028,18
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,2024-11-01,685,28770,18
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,2024-12-01,738,30996,16
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,2023-01-01,384,26112,14
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,2023-02-01,367,24956,17
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,2023-03-01,288,19584,15
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,2023-04-01,386,26248,21
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,2023-05-01,643,43724,13
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,2023-06-01,816,55488,21
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,2023-07-01,744,50592,18
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,2023-08-01,691,46988,19
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,2023-09-01,411,27948,17
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,2023-10-01,402,27336,19
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,2023-11-01,317,21556,16
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,2023-12-01,374,25432,19
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,2024-01-01,322,21896,17
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,2024-02-01,398,27064,19
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,2024-03-01,386,26248,18
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,2024-04-01,331,22508,16
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,2024-05-01,631,42908,15
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,2024-06-01,762,51816,16
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,2024-07-01,782,53176,19
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,2024-08-01,707,48076,16
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,2024-09-01,381,25908,16
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,2024-10-01,405,27540,17
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,2024-11-01,350,23800,17
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,2024-12-01,350,23800,17
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,2023-01-01,681,23154,18
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,2023-02-01,723,24582,18
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,2023-03-01,659,22406,16
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,2023-04-01,889,30226,20
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,2023-05-01,1640,55760,21
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,2023-06-01,1559,53006,17
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,2023-07-01,1823,61982,17
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,2023-08-01,1397,47498,18
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,2023-09-01,686,23324,14
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,2023-10-01,748,25432,19
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,2023-11-01,776,26384,18
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,2023-12-01,853,29002,18
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,2024-01-01,867,29478,19
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,2024-02-01,709,24106,16
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,2024-03-01,782,26588,18
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,2024-04-01,892,30328,16
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,2024-05-01,1409,47906,18
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,2024-06-01,1467,49878,20
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,2024-07-01,1657,56338,14
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,2024-08-01,1606,54604,20
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,2024-09-01,846,28764,16
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,2024-10-01,863,29342,20
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,2024-11-01,745,25330,16
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,2024-12-01,823,27982,15
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,2023-01-01,1240,66960,16
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,2023-02-01,994,53676,14
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,2023-03-01,905,48870,19
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,2023-04-01,634,34236,18
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,2023-05-01,709,38286,19
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,2023-06-01,709,38286,14
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,2023-07-01,815,44010,19
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,2023-08-01,734,39636,17
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,2023-09-01,587,31698,17
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,2023-10-01,715,38610,17
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,2023-11-01,1003,54162,19
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,2023-12-01,990,53460,15
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,2024-01-01,1265,68310,16
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,2024-02-01,1227,66258,15
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,2024-03-01,737,39798,16
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,2024-04-01,667,36018,14
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,2024-05-01,749,40446,16
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,2024-06-01,761,41094,20
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,2024-07-01,676,36504,17
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,2024-08-01,810,43740,16
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,2024-09-01,670,36180,17
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,2024-10-01,735,39690,19
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,2024-11-01,933,50382,15
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,2024-12-01,989,53406,14
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,2023-01-01,539,26944.61,19
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,2023-02-01,574,28694.260000000002,16
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,2023-03-01,659,32943.41,19
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,2023-04-01,675,33743.25,18
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,2023-05-01,572,28594.28,15
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,2023-06-01,742,37092.58,19
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,2023-07-01,721,36042.79,18
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,2023-08-01,726,36292.74,19
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,2023-09-01,780,38992.2,15
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,2023-10-01,630,31493.7,17
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,2023-11-01,1034,51689.66,14
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,2023-12-01,1200,59988.0,18
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,2024-01-01,588,29394.12,16
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,2024-02-01,753,37642.47,19
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,2024-03-01,638,31893.62,16
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,2024-04-01,640,31993.600000000002,16
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,2024-05-01,794,39692.06,21
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,2024-06-01,690,34493.1,14
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,2024-07-01,691,34543.090000000004,16
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,2024-08-01,841,42041.59,19
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,2024-09-01,693,34643.07,18
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,2024-10-01,732,36592.68,18
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,2024-11-01,1271,63537.29,17
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,2024-12-01,1189,59438.11,18
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,2023-01-01,401,24862,17
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,2023-02-01,487,30194,19
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,2023-03-01,428,26536,12
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,2023-04-01,545,33790,20
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,2023-05-01,504,31248,19
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,2023-06-01,501,31062,21
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,2023-07-01,467,28954,17
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,2023-08-01,496,30752,17
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,2023-09-01,486,30132,20
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,2023-10-01,471,29202,17
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,2023-11-01,507,31434,20
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,2023-12-01,516,31992,15
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,2024-01-01,519,32178,19
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,2024-02-01,455,28210,17
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,2024-03-01,500,31000,14
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,2024-04-01,516,31992,17
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,2024-05-01,466,28892,17
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,2024-06-01,517,32054,21
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,2024-07-01,486,30132,15
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,2024-08-01,566,35092,22
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,2024-09-01,480,29760,16
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,2024-10-01,479,29698,14
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,2024-11-01,481,29822,16
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,2024-12-01,457,28334,14
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,2023-01-01,339,30506.61,19
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,2023-02-01,309,27806.91,16
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,2023-03-01,405,36445.95,18
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,2023-04-01,363,32666.37,18
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,2023-05-01,439,39505.61,17
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,2023-06-01,333,29966.67,15
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,2023-07-01,443,39865.57,21
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,2023-08-01,351,31586.489999999998,16
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,2023-09-01,365,32846.35,17
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,2023-10-01,410,36895.9,16
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,2023-11-01,332,29876.68,13
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,2023-12-01,408,36715.92,18
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,2024-01-01,375,33746.25,19
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,2024-02-01,381,34286.19,18
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,2024-03-01,338,30416.62,18
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,2024-04-01,369,33206.31,20
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,2024-05-01,373,33566.27,19
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,2024-06-01,345,31046.55,15
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,2024-07-01,332,29876.68,13
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,2024-08-01,403,36265.97,19
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,2024-09-01,383,34466.17,18
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,2024-10-01,338,30416.62,14
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,2024-11-01,413,37165.87,17
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,2024-12-01,359,32306.41,14
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,2023-01-01,908,43584,17
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,2023-02-01,926,44448,18
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,2023-03-01,716,34368,16
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,2023-04-01,526,25248,18
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,2023-05-01,554,26592,16
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,2023-06-01,568,27264,16
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,2023-07-01,590,28320,16
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,2023-08-01,590,28320,16
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,2023-09-01,626,30048,19
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,2023-10-01,524,25152,15
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,2023-11-01,738,35424,17
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,2023-12-01,903,43344,17
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,2024-01-01,1020,48960,18
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,2024-02-01,956,45888,16
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,2024-03-01,759,36432,21
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,2024-04-01,551,26448,15
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,2024-05-01,660,31680,18
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,2024-06-01,580,27840,14
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,2024-07-01,566,27168,15
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,2024-08-01,651,31248,20
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,2024-09-01,535,25680,17
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,2024-10-01,650,31200,18
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,2024-11-01,869,41712,22
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,2024-12-01,837,40176,15
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,2023-01-01,1250,27500,18
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,2023-02-01,1214,26708,15
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,2023-03-01,1251,27522,15
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,2023-04-01,1446,31812,16
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,2023-05-01,1352,29744,18
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,2023-06-01,1215,26730,18
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,2023-07-01,1352,29744,17
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,2023-08-01,1317,28974,18
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,2023-09-01,1193,26246,18
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,2023-10-01,1329,29238,20
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,2023-11-01,1287,28314,18
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,2023-12-01,1356,29832,17
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,2024-01-01,1344,29568,16
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,2024-02-01,1253,27566,18
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,2024-03-01,1345,29590,15
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,2024-04-01,1116,24552,13
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,2024-05-01,1443,31746,19
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,2024-06-01,1335,29370,17
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,2024-07-01,1242,27324,20
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,2024-08-01,1328,29216,19
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,2024-09-01,1461,32142,18
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,2024-10-01,1456,32032,20
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,2024-11-01,1044,22968,12
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,2024-12-01,1328,29216,21
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,2023-01-01,653,13053.47,18
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,2023-02-01,714,14272.86,17
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,2023-03-01,670,13393.3,14
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,2023-04-01,892,17831.08,17
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,2023-05-01,744,14872.56,16
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,2023-06-01,994,19870.06,21
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,2023-07-01,778,15552.22,19
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,2023-08-01,766,15312.34,13
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,2023-09-01,866,17311.34,20
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,2023-10-01,766,15312.34,16
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,2023-11-01,1329,26566.71,17
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,2023-12-01,1479,29565.21,18
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,2024-01-01,762,15232.38,17
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,2024-02-01,748,14952.52,19
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,2024-03-01,807,16131.93,19
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,2024-04-01,731,14612.69,14
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,2024-05-01,847,16931.53,19
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,2024-06-01,733,14652.67,17
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,2024-07-01,819,16371.81,19
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,2024-08-01,714,14272.86,21
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,2024-09-01,784,15672.16,18
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,2024-10-01,859,17171.41,20
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,2024-11-01,1334,26666.66,16
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,2024-12-01,1236,24707.64,12
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,2023-01-01,1103,13787.5,20
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,2023-02-01,1033,12912.5,18
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,2023-03-01,1084,13550.0,15
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,2023-04-01,991,12387.5,17
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,2023-05-01,1092,13650.0,18
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,2023-06-01,1068,13350.0,21
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,2023-07-01,1096,13700.0,16
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,2023-08-01,1069,13362.5,19
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,2023-09-01,933,11662.5,15
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,2023-10-01,1224,15300.0,20
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,2023-11-01,915,11437.5,12
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,2023-12-01,1137,14212.5,19
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,2024-01-01,1128,14100.0,17
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,2024-02-01,1094,13675.0,20
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,2024-03-01,987,12337.5,18
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,2024-04-01,1008,12600.0,18
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,2024-05-01,1283,16037.5,19
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,2024-06-01,937,11712.5,16
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,2024-07-01,982,12275.0,15
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,2024-08-01,1015,12687.5,17
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,2024-09-01,1067,13337.5,16
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,2024-10-01,1097,13712.5,15
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,2024-11-01,1114,13925.0,18
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,2024-12-01,957,11962.5,14
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,2023-01-01,432,12096,18
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,2023-02-01,283,7924,16
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,2023-03-01,298,8344,15
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,2023-04-01,372,10416,18
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,2023-05-01,333,9324,21
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,2023-06-01,272,7616,16
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,2023-07-01,326,9128,22
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,2023-08-01,420,11760,17
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,2023-09-01,421,11788,18
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,2023-10-01,342,9576,17
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,2023-11-01,338,9464,16
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,2023-12-01,321,8988,17
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,2024-01-01,412,11536,19
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,2024-02-01,347,9716,18
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,2024-03-01,315,8820,15
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,2024-04-01,331,9268,16
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,2024-05-01,307,8596,16
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,2024-06-01,324,9072,18
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,2024-07-01,286,8008,18
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,2024-08-01,473,13244,20
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,2024-09-01,409,11452,19
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,2024-10-01,384,10752,18
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,2024-11-01,258,7224,13
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,2024-12-01,302,8456,15
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,2023-01-01,456,7747.44,16
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,2023-02-01,442,7509.58,14
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,2023-03-01,581,9871.19,18
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,2023-04-01,446,7577.54,15
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,2023-05-01,543,9225.57,16
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,2023-06-01,517,8783.83,17
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,2023-07-01,519,8817.81,21
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,2023-08-01,486,8257.14,18
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,2023-09-01,553,9395.47,18
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,2023-10-01,515,8749.85,18
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,2023-11-01,808,13727.92,15
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,2023-12-01,992,16854.08,21
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,2024-01-01,404,6863.96,18
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,2024-02-01,485,8240.15,16
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,2024-03-01,542,9208.58,19
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,2024-04-01,572,9718.28,16
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,2024-05-01,528,8970.72,20
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,2024-06-01,468,7951.32,18
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,2024-07-01,577,9803.23,18
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,2024-08-01,477,8104.2300000000005,16
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,2024-09-01,517,8783.83,18
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,2024-10-01,508,8630.92,17
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,2024-11-01,836,14203.64,18
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,2024-12-01,829,14084.71,18
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,2023-01-01,428,7918.0,15
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,2023-02-01,485,8972.5,17
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,2023-03-01,524,9694.0,18
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,2023-04-01,484,8954.0,17
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,2023-05-01,489,9046.5,13
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,2023-06-01,461,8528.5,18
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,2023-07-01,512,9472.0,16
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,2023-08-01,481,8898.5,18
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,2023-09-01,468,8658.0,21
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,2023-10-01,520,9620.0,16
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,2023-11-01,754,13949.0,16
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,2023-12-01,931,17223.5,17
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,2024-01-01,442,8177.0,17
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,2024-02-01,475,8787.5,16
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,2024-03-01,578,10693.0,19
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,2024-04-01,485,8972.5,15
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,2024-05-01,588,10878.0,17
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,2024-06-01,521,9638.5,17
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,2024-07-01,517,9564.5,19
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,2024-08-01,570,10545.0,16
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,2024-09-01,518,9583.0,16
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,2024-10-01,459,8491.5,14
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,2024-11-01,979,18111.5,19
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,2024-12-01,782,14467.0,17
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,2023-01-01,449,6730.51,19
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,2023-02-01,395,5921.05,15
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,2023-03-01,530,7944.7,18
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,2023-04-01,492,7375.08,17
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,2023-05-01,930,13940.7,17
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,2023-06-01,917,13745.83,17
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,2023-07-01,994,14900.06,19
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,2023-08-01,1030,15439.7,20
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,2023-09-01,426,6385.74,17
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,2023-10-01,576,8634.24,19
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,2023-11-01,490,7345.1,19
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,2023-12-01,509,7629.91,19
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,2024-01-01,494,7405.06,18
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,2024-02-01,517,7749.83,20
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,2024-03-01,494,7405.06,17
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,2024-04-01,498,7465.0199999999995,21
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,2024-05-01,943,14135.57,17
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,2024-06-01,931,13955.69,14
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,2024-07-01,895,13416.05,17
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,2024-08-01,1056,15829.44,19
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,2024-09-01,504,7554.96,18
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,2024-10-01,571,8559.29,16
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,2024-11-01,456,6835.44,15
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,2024-12-01,467,7000.33,19
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,2023-01-01,396,8316,15
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,2023-02-01,284,5964,16
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,2023-03-01,377,7917,18
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,2023-04-01,313,6573,18
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,2023-05-01,558,11718,15
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,2023-06-01,759,15939,20
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,2023-07-01,661,13881,18
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,2023-08-01,602,12642,16
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,2023-09-01,391,8211,17
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,2023-10-01,380,7980,19
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,2023-11-01,297,6237,15
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,2023-12-01,382,8022,20
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,2024-01-01,326,6846,16
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,2024-02-01,302,6342,17
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,2024-03-01,362,7602,16
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,2024-04-01,347,7287,18
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,2024-05-01,672,14112,19
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,2024-06-01,674,14154,16
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,2024-07-01,686,14406,18
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,2024-08-01,665,13965,21
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,2024-09-01,400,8400,20
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,2024-10-01,272,5712,15
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,2024-11-01,332,6972,20
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,2024-12-01,290,6090,17
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,2023-01-01,499,12974,17
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,2023-02-01,484,12584,15
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,2023-03-01,543,14118,21
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,2023-04-01,568,14768,17
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,2023-05-01,1000,26000,17
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,2023-06-01,1059,27534,15
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,2023-07-01,1038,26988,15
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,2023-08-01,1026,26676,20
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,2023-09-01,543,14118,18
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,2023-10-01,516,13416,13
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,2023-11-01,637,16562,18
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,2023-12-01,447,11622,17
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,2024-01-01,535,13910,15
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,2024-02-01,608,15808,20
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,2024-03-01,527,13702,18
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,2024-04-01,503,13078,15
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,2024-05-01,985,25610,17
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,2024-06-01,1143,29718,18
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,2024-07-01,1017,26442,16
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,2024-08-01,1151,29926,23
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,2024-09-01,549,14274,16
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,2024-10-01,562,14612,18
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,2024-11-01,496,12896,17
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,2024-12-01,598,15548,18
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,2023-01-01,756,13608,14
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,2023-02-01,834,15012,19
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,2023-03-01,342,6156,17
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,2023-04-01,437,7866,19
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,2023-05-01,456,8208,17
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,2023-06-01,337,6066,18
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,2023-07-01,331,5958,17
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,2023-08-01,317,5706,18
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,2023-09-01,377,6786,16
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,2023-10-01,450,8100,18
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,2023-11-01,653,11754,15
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,2023-12-01,746,13428,21
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,2024-01-01,751,13518,17
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,2024-02-01,835,15030,20
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,2024-03-01,408,7344,17
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,2024-04-01,444,7992,19
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,2024-05-01,426,7668,19
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,2024-06-01,282,5076,16
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,2024-07-01,295,5310,17
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,2024-08-01,298,5364,18
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,2024-09-01,445,8010,17
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,2024-10-01,458,8244,18
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,2024-11-01,676,12168,17
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,2024-12-01,626,11268,15
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,2023-01-01,731,11688.69,18
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,2023-02-01,490,7835.1,15
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,2023-03-01,520,8314.8,15
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,2023-04-01,517,8266.83,18
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,2023-05-01,602,9625.98,22
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,2023-06-01,461,7371.389999999999,12
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,2023-07-01,491,7851.09,19
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,2023-08-01,742,11864.58,15
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,2023-09-01,619,9897.81,17
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,2023-10-01,568,9082.32,17
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,2023-11-01,540,8634.6,14
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,2023-12-01,593,9482.07,17
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,2024-01-01,677,10825.23,14
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,2024-02-01,547,8746.53,17
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,2024-03-01,553,8842.47,20
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,2024-04-01,509,8138.91,16
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,2024-05-01,531,8490.69,20
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,2024-06-01,461,7371.39,15
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,2024-07-01,561,8970.39,17
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,2024-08-01,658,10521.42,15
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,2024-09-01,700,11193.0,19
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,2024-10-01,545,8714.55,18
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,2024-11-01,530,8474.7,17
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,2024-12-01,463,7403.37,16
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,2023-01-01,617,9248.83,18
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,2023-02-01,451,6760.49,16
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,2023-03-01,615,9218.85,17
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,2023-04-01,630,9443.7,16
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,2023-05-01,484,7255.16,17
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,2023-06-01,658,9863.42,18
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,2023-07-01,560,8394.4,18
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,2023-08-01,623,9338.77,18
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,2023-09-01,573,8589.27,15
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,2023-10-01,581,8709.19,19
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,2023-11-01,623,9338.77,18
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,2023-12-01,574,8604.26,16
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,2024-01-01,614,9203.86,18
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,2024-02-01,518,7764.82,17
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,2024-03-01,585,8769.15,18
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,2024-04-01,538,8064.62,16
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,2024-05-01,640,9593.6,19
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,2024-06-01,543,8139.57,17
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,2024-07-01,556,8334.44,16
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,2024-08-01,651,9758.49,17
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,2024-09-01,584,8754.16,17
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,2024-10-01,582,8724.18,18
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,2024-11-01,614,9203.86,17
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,2024-12-01,559,8379.41,17
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,2023-01-01,342,10256.58,17
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,2023-02-01,279,8367.21,14
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,2023-03-01,350,10496.5,19
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,2023-04-01,363,10886.369999999999,18
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,2023-05-01,336,10076.64,19
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,2023-06-01,398,11936.02,17
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,2023-07-01,346,10376.54,16
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,2023-08-01,379,11366.21,19
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,2023-09-01,364,10916.36,17
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,2023-10-01,367,11006.33,16
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,2023-11-01,519,15564.81,15
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,2023-12-01,608,18233.92,19
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,2024-01-01,340,10196.6,17
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,2024-02-01,318,9536.82,15
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,2024-03-01,341,10226.59,17
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,2024-04-01,317,9506.83,18
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,2024-05-01,389,11666.11,18
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,2024-06-01,370,11096.3,16
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,2024-07-01,402,12055.98,22
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,2024-08-01,275,8247.25,16
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,2024-09-01,346,10376.539999999999,16
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,2024-10-01,364,10916.36,16
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,2024-11-01,598,17934.02,19
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,2024-12-01,680,20393.2,17
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,2023-01-01,433,5191.67,15
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,2023-02-01,422,5059.78,15
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,2023-03-01,451,5407.49,17
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,2023-04-01,429,5143.71,18
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,2023-05-01,456,5467.44,18
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,2023-06-01,486,5827.14,21
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,2023-07-01,411,4927.89,17
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,2023-08-01,409,4903.91,15
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,2023-09-01,389,4664.11,18
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,2023-10-01,490,5875.1,19
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,2023-11-01,476,5707.24,15
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,2023-12-01,454,5443.46,16
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,2024-01-01,490,5875.1,17
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,2024-02-01,431,5167.69,16
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,2024-03-01,448,5371.5199999999995,19
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,2024-04-01,494,5923.06,21
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,2024-05-01,413,4951.87,17
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,2024-06-01,437,5239.63,16
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,2024-07-01,529,6342.71,20
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,2024-08-01,503,6030.97,19
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,2024-09-01,461,5527.39,17
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,2024-10-01,495,5935.05,15
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,2024-11-01,423,5071.77,15
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,2024-12-01,423,5071.77,14
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,2023-01-01,304,5016.0,17
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,2023-02-01,290,4785.0,18
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,2023-03-01,318,5247.0,18
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,2023-04-01,323,5329.5,19
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,2023-05-01,603,9949.5,16
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,2023-06-01,623,10279.5,18
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,2023-07-01,637,10510.5,17
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,2023-08-01,548,9042.0,17
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,2023-09-01,331,5461.5,17
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,2023-10-01,350,5775.0,18
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,2023-11-01,301,4966.5,16
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,2023-12-01,316,5214.0,20
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,2024-01-01,285,4702.5,15
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,2024-02-01,331,5461.5,17
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,2024-03-01,369,6088.5,16
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,2024-04-01,349,5758.5,17
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,2024-05-01,514,8481.0,16
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,2024-06-01,659,10873.5,19
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,2024-07-01,599,9883.5,17
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,2024-08-01,584,9636.0,17
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,2024-09-01,368,6072.0,19
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,2024-10-01,299,4933.5,19
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,2024-11-01,370,6105.0,19
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,2024-12-01,298,4917.0,16
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,2023-01-01,733,7322.67,17
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,2023-02-01,773,7722.27,18
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,2023-03-01,685,6843.15,16
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,2023-04-01,904,9030.96,19
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,2023-05-01,748,7472.52,17
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,2023-06-01,805,8041.95,15
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,2023-07-01,734,7332.66,16
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,2023-08-01,789,7882.11,18
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,2023-09-01,830,8291.7,17
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,2023-10-01,723,7222.77,15
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,2023-11-01,900,8991.0,22
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,2023-12-01,765,7642.35,18
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,2024-01-01,746,7452.54,21
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,2024-02-01,763,7622.37,19
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,2024-03-01,841,8401.59,16
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,2024-04-01,762,7612.38,16
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,2024-05-01,872,8711.28,19
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,2024-06-01,772,7712.28,20
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,2024-07-01,790,7892.1,17
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,2024-08-01,967,9660.33,22
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,2024-09-01,745,7442.55,16
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,2024-10-01,822,8211.78,17
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,2024-11-01,851,8501.49,19
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,2024-12-01,741,7402.59,18

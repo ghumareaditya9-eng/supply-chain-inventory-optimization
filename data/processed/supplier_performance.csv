@@ -1,0 +1,9 @@
+supplier_id,total_fulfillments,avg_lead_time_days,avg_lead_time_weeks,min_lead_time_days,max_lead_time_days
+SUP-105,4180,11.52,1.65,4,18
+SUP-108,4128,14.57,2.08,5,24
+SUP-106,3763,9.46,1.35,3,16
+SUP-107,3342,17.56,2.51,6,28
+SUP-103,2900,6.54,0.93,3,11
+SUP-101,1229,13.58,1.94,4,22
+SUP-104,855,27.47,3.92,10,46
+SUP-102,397,20.61,2.94,8,33

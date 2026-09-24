@@ -1,0 +1,51 @@
+sku_id,product_name,category,unit_price,unit_cost,supplier_id,total_revenue,total_units,cumulative_revenue_pct,abc_category
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,279.99,126,SUP-101,3412798.11,12189,5.43,A
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,349.99,168,SUP-101,3397702.92,9708,10.83,A
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,499,259.48,SUP-107,2984519.0,5981,15.58,A
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,389,194.5,SUP-107,2954844.0,7596,20.28,A
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,399.99,188,SUP-108,2862728.43,7157,24.84,A
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,449.5,206.77,SUP-108,2815218.5,6263,29.31,A
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,249,99.6,SUP-105,2465847.0,9903,33.24,A
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,289,121.38,SUP-106,2384250.0,8250,37.03,A
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,155,58.9,SUP-105,2275400.0,14680,40.65,A
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,179.99,81,SUP-108,2179498.91,12109,44.12,A
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,169.99,71.4,SUP-104,2155133.22,12678,47.54,A
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,329.99,165,SUP-102,2136025.27,6473,50.94,A
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,369,169.74,SUP-106,2085219.0,5651,54.26,A
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,199,83.58,SUP-101,1882142.0,9458,57.25,A
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,289,127.16,SUP-105,1796713.0,6217,60.11,A
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,189.5,83.38,SUP-106,1782816.0,9408,62.95,A
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,129.99,52,SUP-104,1608236.28,12372,65.51,A
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,299,143.52,SUP-108,1585298.0,5302,68.03,A
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,95,33.25,SUP-105,1579850.0,16630,70.54,A
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,119.5,45.41,SUP-107,1345092.0,11256,72.68,A
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,79.99,33.6,SUP-103,1252723.39,15661,74.67,A
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,59.99,24,SUP-103,1116413.9,18610,76.45,A
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,54,17.28,SUP-105,1093716.0,20254,78.19,A
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,42,12.6,SUP-106,999138.0,23789,79.78,A
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,89,35.6,SUP-107,955949.0,10741,81.3,B
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,49.99,17.5,SUP-103,918416.28,18372,82.76,B
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,85,32.3,SUP-108,885785.0,10421,84.17,B
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,34,9.52,SUP-105,853400.0,25100,85.53,B
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,48,16.32,SUP-106,806544.0,16803,86.81,B
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,89.99,39.6,SUP-108,801450.94,8906,88.08,B
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,68,24.48,SUP-106,790704.0,11628,89.34,B
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,38.5,12.32,SUP-108,779471.0,20246,90.58,B
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,45,16.2,SUP-107,744075.0,16535,91.77,B
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,62,23.56,SUP-107,727322.0,11731,92.92,B
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,22,5.5,SUP-105,687654.0,31257,94.02,B
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,26,7.8,SUP-105,442884.0,17034,94.72,B
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,19.99,5,SUP-103,420289.75,21025,95.39,C
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,12.5,2.5,SUP-103,317675.0,25414,95.9,C
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,29.99,9.6,SUP-108,281636.09,9391,96.34,C
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,18.5,4.81,SUP-108,248843.5,13451,96.74,C
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,14.99,3.3,SUP-106,233304.36,15564,97.11,C
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,28,8.4,SUP-107,232568.0,8306,97.48,C
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,16.99,4.08,SUP-108,231080.99,13601,97.85,C
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,21,5.88,SUP-106,225288.0,10728,98.21,C
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,15.99,3.52,SUP-103,217607.91,13609,98.55,C
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,18,4.5,SUP-105,215640.0,11980,98.9,C
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,14.99,3.75,SUP-107,209455.27,13973,99.23,C
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,9.99,1.8,SUP-103,190419.39,19061,99.53,C
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,16.5,4.12,SUP-105,164488.5,9969,99.79,C
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,11.99,2.4,SUP-106,130127.47,10853,100.0,C

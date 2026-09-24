@@ -1,0 +1,51 @@
+sku_id,product_name,category,avg_weekly_demand,stddev_weekly_demand,coefficient_of_variation,min_weekly_demand,max_weekly_demand,active_weeks_count,total_units_sold,total_revenue
+SKU-001,Pro Active Noise-Cancelling Headphones,Consumer Electronics,117.2,34.22,0.292,71,228,104,12189,3412798.11
+SKU-002,Smart Fitness GPS Watch Ultra,Consumer Electronics,93.35,23.97,0.257,51,157,104,9708,3397702.92
+SKU-004,Dual-Motor Electric Standing Desk 60in,Office & Productivity,57.51,12.13,0.211,34,91,104,5981,2984519.0
+SKU-003,Executive Ergonomic High-Back Chair,Office & Productivity,73.04,15.3,0.209,46,116,104,7596,2954844.0
+SKU-006,Smart Auto-Empty Robotic Vacuum,Home & Kitchen,68.82,19.67,0.286,41,135,104,7157,2862728.43
+SKU-005,Precision Barista Espresso Machine,Home & Kitchen,60.22,18.52,0.308,28,119,104,6263,2815218.5
+SKU-010,Women's Down Insulated Winter Parka,Apparel & Footwear,95.22,35.07,0.368,41,162,104,9903,2465847.0
+SKU-007,Ultra Lightweight 4-Season Backpacking Tent,Outdoor & Sports,79.33,28.29,0.357,47,154,104,8250,2384250.0
+SKU-009,Men's Waterproof Trail Running Shoe,Apparel & Footwear,141.15,30.51,0.216,90,199,104,14680,2275400.0
+SKU-015,XL 8-Quart Digital Dual-Zone Air Fryer,Home & Kitchen,116.43,34.94,0.3,68,242,104,12109,2179498.91
+SKU-011,Custom Mechanical Gaming Keyboard RGB,Consumer Electronics,121.9,36.9,0.303,76,255,104,12678,2155133.22
+SKU-013,Tri-Band WiFi 7 Mesh Router System,Consumer Electronics,62.24,19.74,0.317,25,129,104,6473,2136025.27
+SKU-017,Inflatable Stand Up Touring Paddleboard,Outdoor & Sports,54.34,19.19,0.353,28,94,104,5651,2085219.0
+SKU-019,High-Impact Recovery Massage Gun Pro,Consumer Electronics,90.94,27.76,0.305,50,182,104,9458,1882142.0
+SKU-020,All-Weather Gore-Tex Hardshell Jacket,Apparel & Footwear,59.78,8.31,0.139,46,83,104,6217,1796713.0
+SKU-008,Carbon Fiber Road Cycling Helmet,Outdoor & Sports,90.46,30.14,0.333,42,159,104,9408,1782816.0
+SKU-012,4K Ultra-HD Streaming Conference Webcam,Consumer Electronics,118.96,14.49,0.122,85,150,104,12372,1608236.28
+SKU-016,Commercial Grade 14-Piece Cookware Set,Home & Kitchen,50.98,14.05,0.276,26,91,104,5302,1585298.0
+SKU-018,Merino Wool Thermal Base Layer Top,Apparel & Footwear,159.9,57.09,0.357,74,269,104,16630,1579850.0
+SKU-014,Heavy-Duty Dual Monitor Desk Mount,Office & Productivity,108.23,14.72,0.136,70,143,104,11256,1345092.0
+SKU-022,Portable Waterproof Bluetooth Speaker,Consumer Electronics,150.59,52.04,0.346,83,253,104,15661,1252723.39
+SKU-021,Wireless Charging Multi-Device Pad,Consumer Electronics,178.94,51.92,0.29,111,328,104,18610,1116413.9
+SKU-030,Seamless High-Rise Compression Leggings,Apparel & Footwear,194.75,50.66,0.26,126,309,104,20254,1093716.0
+SKU-027,Insulated Hydro Flask Stainless 32oz,Outdoor & Sports,228.74,78.94,0.345,132,402,104,23789,999138.0
+SKU-024,Dimmable ScreenBar Monitor Light,Office & Productivity,103.28,36.61,0.355,39,176,104,10741,955949.0
+SKU-031,Fast-Charging 65W GaN Wall Adapter,Consumer Electronics,176.65,49.53,0.28,105,347,104,18372,918416.28
+SKU-026,Japanese Damascus Santoku Chef Knife,Home & Kitchen,100.2,26.5,0.264,70,186,104,10421,885785.0
+SKU-029,Breathable Quick-Dry Gym Shorts,Apparel & Footwear,241.35,85.18,0.353,148,421,104,25100,853400.0
+SKU-034,Ultra-Thick Non-Slip Yoga Mat 6mm,Outdoor & Sports,161.57,41.05,0.254,97,271,104,16803,806544.0
+SKU-033,Cast Iron Dutch Oven 6-Quart Enameled,Home & Kitchen,85.63,10.7,0.125,57,108,104,8906,801450.94
+SKU-028,Carbon Trekking Poles Pair,Outdoor & Sports,111.81,39.44,0.353,51,191,104,11628,790704.0
+SKU-025,Borosilicate Glass Cold Brew Pitcher,Home & Kitchen,194.67,66.31,0.341,111,330,104,20246,779471.0
+SKU-023,Ergonomic Memory Foam Footrest,Office & Productivity,158.99,14.12,0.089,129,196,104,16535,744075.0
+SKU-032,Anti-Fatigue Standing Desk Floor Mat,Office & Productivity,112.8,12.62,0.112,86,145,104,11731,727322.0
+SKU-035,Moisture-Wicking Athletic Running Socks 3pk,Apparel & Footwear,300.55,19.68,0.065,231,354,104,31257,687654.0
+SKU-043,Organic Cotton Crew Neck Tee,Apparel & Footwear,163.79,55.77,0.341,95,272,104,17034,442884.0
+SKU-036,Braided USB-C to Lightning Cable 2m,Consumer Electronics,202.16,54.55,0.27,134,359,104,21025,420289.75
+SKU-037,Silicone Cable Organizer Clips 6pk,Office & Productivity,244.37,17.52,0.072,199,277,104,25414,317675.0
+SKU-047,Aromatherapy Essential Oil Diffuser,Home & Kitchen,90.3,25.85,0.286,59,167,104,9391,281636.09
+SKU-040,Heat-Resistant Silicone Spatula Set,Home & Kitchen,129.34,34.71,0.268,84,247,104,13451,248843.5
+SKU-041,Aluminum Locking Carabiners 4pk,Outdoor & Sports,149.65,52.34,0.35,88,260,104,15564,233304.36
+SKU-038,Bamboo Desk Organizer Drawer Tray,Office & Productivity,79.87,15.58,0.195,46,117,104,8306,232568.0
+SKU-039,Stainless Steel Measuring Spoons Set,Home & Kitchen,130.78,36.66,0.28,66,247,104,13601,231080.99
+SKU-042,Quick-Dry Microfiber Camp Towel,Outdoor & Sports,103.15,36.84,0.357,54,180,104,10728,225288.0
+SKU-045,Stylus Pen for Capacitive Touchscreens,Consumer Electronics,130.86,23.39,0.179,93,200,104,13609,217607.91
+SKU-044,Thermal Fleece Beanie Hat,Apparel & Footwear,115.19,42.55,0.369,52,208,104,11980,215640.0
+SKU-046,Non-Slip Mouse Pad with Wrist Rest,Office & Productivity,134.36,14.37,0.107,98,174,104,13973,209455.27
+SKU-050,Screen Cleaning Spray & Cloth Kit,Consumer Electronics,183.28,16.3,0.089,141,224,104,19061,190419.39
+SKU-049,Reflective Running Armband Phone Case,Apparel & Footwear,95.86,32.06,0.335,50,164,104,9969,164488.5
+SKU-048,Emergency Mylar Thermal Blankets 4pk,Outdoor & Sports,104.36,12.07,0.116,65,135,104,10853,130127.47
