@@ -1,0 +1,77 @@
+// ====================================================================
+// DAX Measures for Supply Chain Inventory Optimization Power BI Dashboard
+// Ready to copy-paste into a dedicated "_Measures" table in Power BI
+// ====================================================================
+
+// --------------------------------------------------------------------
+// 1. FINANCIAL & RISK METRICS
+// --------------------------------------------------------------------
+
+Total Revenue at Risk = 
+SUM('reorder_recommendations'[revenue_at_risk])
+
+Total Catalog Revenue = 
+SUM('sku_abc_classification'[total_revenue])
+
+At Risk Revenue Percentage = 
+DIVIDE([Total Revenue at Risk], [Total Catalog Revenue], 0)
+
+Total Recommended Order Units = 
+SUM('reorder_recommendations'[recommended_order_qty])
+
+Total Deficit Units = 
+SUM('reorder_recommendations'[units_at_risk])
+
+// --------------------------------------------------------------------
+// 2. INVENTORY HEALTH & SKU COUNTS
+// --------------------------------------------------------------------
+
+Total Active SKUs = 
+COUNTROWS('reorder_recommendations')
+
+High Risk SKU Count = 
+CALCULATE(
+    COUNTROWS('reorder_recommendations'),
+    'reorder_recommendations'[risk_status] = "HIGH RISK"
+)
+
+Medium Risk SKU Count = 
+CALCULATE(
+    COUNTROWS('reorder_recommendations'),
+    'reorder_recommendations'[risk_status] = "MEDIUM RISK"
+)
+
+Healthy SKU Count = 
+CALCULATE(
+    COUNTROWS('reorder_recommendations'),
+    'reorder_recommendations'[risk_status] = "HEALTHY"
+)
+
+Stockout Risk Rate = 
+DIVIDE([High Risk SKU Count], [Total Active SKUs], 0)
+
+// --------------------------------------------------------------------
+// 3. MODEL ACCURACY & PERFORMANCE
+// --------------------------------------------------------------------
+
+Average Model MAPE = 
+AVERAGE('reorder_recommendations'[test_mape_pct])
+
+Average Model RMSE = 
+AVERAGE('reorder_recommendations'[test_rmse])
+
+Average Supplier Lead Time = 
+AVERAGE('reorder_recommendations'[lead_time_days])
+
+// --------------------------------------------------------------------
+// 4. CONDITIONAL FORMATTING COLOR CODES (HEX)
+// --------------------------------------------------------------------
+
+Risk Status Color = 
+SWITCH(
+    SELECTEDVALUE('reorder_recommendations'[risk_status]),
+    "HIGH RISK", "#E74C3C",     // Corporate Red
+    "MEDIUM RISK", "#F39C12",   // Amber Yellow
+    "HEALTHY", "#2ECC71",       // Forest Green
+    "#95A5A6"                  // Neutral Gray
+)

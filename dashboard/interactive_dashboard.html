@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Supply Chain Executive BI Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        :root {
+            --primary: #1F4E79;
+            --primary-dark: #14324f;
+            --danger: #E74C3C;
+            --warning: #F39C12;
+            --success: #2ECC71;
+            --bg: #F4F6F9;
+            --card-bg: #FFFFFF;
+            --text-dark: #2C3E50;
+            --text-muted: #7F8C8D;
+            --border: #E2E8F0;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+        body { background-color: var(--bg); color: var(--text-dark); padding: 24px; }
+        .header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px; padding-bottom: 16px; border-bottom: 1px solid var(--border); }
+        .header-title h1 { font-size: 24px; color: var(--primary); font-weight: 700; }
+        .header-title p { font-size: 14px; color: var(--text-muted); margin-top: 4px; }
+        .badge-live { background-color: #E8F8F5; color: var(--success); padding: 6px 14px; border-radius: 20px; font-weight: 600; font-size: 13px; border: 1px solid #A3E4D7; }
+        
+        .kpi-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 18px; margin-bottom: 24px; }
+        .kpi-card { background: var(--card-bg); border-radius: 12px; padding: 20px; border: 1px solid var(--border); box-shadow: 0 2px 4px rgba(0,0,0,0.02); }
+        .kpi-label { font-size: 13px; color: var(--text-muted); text-transform: uppercase; font-weight: 600; letter-spacing: 0.5px; }
+        .kpi-val { font-size: 28px; font-weight: 700; margin-top: 8px; color: var(--primary-dark); }
+        .kpi-sub { font-size: 12px; margin-top: 6px; }
+        .kpi-danger .kpi-val { color: var(--danger); }
+        .kpi-success .kpi-val { color: var(--success); }
+        
+        .charts-grid { display: grid; grid-template-columns: 2fr 1fr; gap: 20px; margin-bottom: 24px; }
+        .charts-row-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 24px; }
+        .card { background: var(--card-bg); border-radius: 12px; padding: 22px; border: 1px solid var(--border); box-shadow: 0 2px 4px rgba(0,0,0,0.02); }
+        .card-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; }
+        .card-title { font-size: 16px; font-weight: 700; color: var(--primary-dark); }
+        .card-subtitle { font-size: 12px; color: var(--text-muted); }
+        
+        .table-container { overflow-x: auto; margin-top: 12px; }
+        table { width: 100%; border-collapse: collapse; font-size: 13px; text-align: left; }
+        th { background: #F8FAFC; color: var(--text-muted); font-weight: 600; padding: 12px 14px; border-bottom: 1px solid var(--border); }
+        td { padding: 12px 14px; border-bottom: 1px solid var(--border); }
+        tr:hover { background-color: #F8FAFC; }
+        
+        .badge { padding: 4px 10px; border-radius: 12px; font-size: 11px; font-weight: 700; display: inline-block; }
+        .badge-danger { background: #FDEDEC; color: var(--danger); border: 1px solid #FADBD8; }
+        .badge-warning { background: #FEF9E7; color: #D68910; border: 1px solid #FCF3CF; }
+        .badge-success { background: #EAFAF1; color: var(--success); border: 1px solid #D4EFDF; }
+        
+        .filter-bar { display: flex; gap: 12px; margin-bottom: 16px; align-items: center; }
+        .filter-select, .search-box { padding: 8px 12px; border: 1px solid var(--border); border-radius: 6px; font-size: 13px; outline: none; }
+        .search-box { flex-grow: 1; max-width: 320px; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="header-title">
+            <h1>Supply Chain Demand Forecasting & Inventory Optimization</h1>
+            <p>Executive Decision Dashboard • Top 20 Revenue SKUs (Quarterly Review: Q1-2025)</p>
+        </div>
+        <div>
+            <span class="badge-live">● System Live • Power BI Architecture</span>
+        </div>
+    </div>
+
+    <!-- Top KPI Cards -->
+    <div class="kpi-grid">
+        <div class="kpi-card kpi-danger">
+            <div class="kpi-label">Total Revenue at Risk</div>
+            <div class="kpi-val">$211,727.80</div>
+            <div class="kpi-sub" style="color: var(--danger);">Immediate stockout deficit across 8 critical SKUs</div>
+        </div>
+        <div class="kpi-card">
+            <div class="kpi-label">Stockout Risk Rate</div>
+            <div class="kpi-val">8 / 20 SKUs</div>
+            <div class="kpi-sub" style="color: var(--text-muted);">40% of Class A items below Reorder Point</div>
+        </div>
+        <div class="kpi-card kpi-success">
+            <div class="kpi-label">Forecast Model Accuracy</div>
+            <div class="kpi-val">18.76% MAPE</div>
+            <div class="kpi-sub" style="color: var(--success);">Validated on 12-week out-of-sample holdout</div>
+        </div>
+        <div class="kpi-card">
+            <div class="kpi-label">Recommended Replenishment</div>
+            <div class="kpi-val">1,461 Units</div>
+            <div class="kpi-sub" style="color: var(--text-muted);">EOQ-adjusted purchase orders to eliminate deficit</div>
+        </div>
+    </div>
+
+    <!-- Charts Row 1 -->
+    <div class="charts-grid">
+        <div class="card">
+            <div class="card-header">
+                <div>
+                    <div class="card-title">Demand Forecasting Trajectory (SKU-001: Pro ANC Headphones)</div>
+                    <div class="card-subtitle">104 Weeks Historical Actuals + 13 Weeks Q1-2025 Forecast with 80% Prediction Interval</div>
+                </div>
+            </div>
+            <div style="height: 280px;">
+                <canvas id="forecastChart"></canvas>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header">
+                <div>
+                    <div class="card-title">Revenue at Risk by Category</div>
+                    <div class="card-subtitle">Financial exposure breakdown ($ USD)</div>
+                </div>
+            </div>
+            <div style="height: 280px;">
+                <canvas id="categoryRiskChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- Charts Row 2 -->
+    <div class="charts-row-2">
+        <div class="card">
+            <div class="card-header">
+                <div>
+                    <div class="card-title">Pareto ABC Cumulative Revenue Distribution</div>
+                    <div class="card-subtitle">Top 25 Catalog SKUs Revenue vs 80% Pareto Threshold</div>
+                </div>
+            </div>
+            <div style="height: 260px;">
+                <canvas id="paretoChart"></canvas>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header">
+                <div>
+                    <div class="card-title">Stockout Risk Category Distribution</div>
+                    <div class="card-subtitle">Percentage of Top 20 SKUs by Inventory Status</div>
+                </div>
+            </div>
+            <div style="height: 260px;">
+                <canvas id="riskDonutChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- Master Action Table -->
+    <div class="card">
+        <div class="card-header">
+            <div>
+                <div class="card-title">Priority Replenishment & Decision Matrix</div>
+                <div class="card-subtitle">Real-time status of Top 20 revenue drivers with recommended PO sizes</div>
+            </div>
+        </div>
+        <div class="filter-bar">
+            <input type="text" id="searchInput" class="search-box" placeholder="Search product or SKU..." onkeyup="filterTable()">
+            <select id="statusFilter" class="filter-select" onchange="filterTable()">
+                <option value="ALL">All Risk Statuses</option>
+                <option value="HIGH RISK">High Risk Only</option>
+                <option value="HEALTHY">Healthy Only</option>
+            </select>
+        </div>
+        <div class="table-container">
+            <table id="reorderTable">
+                <thead>
+                    <tr>
+                        <th>SKU ID</th>
+                        <th>Product Name</th>
+                        <th>Category</th>
+                        <th>Lead Time</th>
+                        <th>Weekly Demand</th>
+                        <th>Safety Stock</th>
+                        <th>Reorder Point</th>
+                        <th>Current Stock</th>
+                        <th>Status</th>
+                        <th>At-Risk Revenue</th>
+                        <th>Recommended Order</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    <tr>
+                        <td><strong>SKU-001</strong></td>
+                        <td>Pro Active Noise-Cancelling Headphones</td>
+                        <td>Consumer Electronics</td>
+                        <td>13.6 days</td>
+                        <td>130.9</td>
+                        <td>79</td>
+                        <td><strong>334</strong></td>
+                        <td>163</td>
+                        <td><span class="badge badge-danger">HIGH RISK</span></td>
+                        <td style='color: var(--danger); font-weight: 700;'>$47,878.29</td>
+                        <td><strong>205 units</strong></td>
+                    </tr>
+                    <tr>
+                        <td><strong>SKU-002</strong></td>
+                        <td>Smart Fitness GPS Watch Ultra</td>
+                        <td>Consumer Electronics</td>
+                        <td>13.6 days</td>
+                        <td>120.1</td>
+                        <td>56</td>
+                        <td><strong>289</strong></td>
+                        <td>238</td>
+                        <td><span class="badge badge-danger">HIGH RISK</span></td>
+                        <td style='color: var(--danger); font-weight: 700;'>$17,849.49</td>
+                        <td><strong>163 units</strong></td>
+                    </tr>
+                    <tr>
+                        <td><strong>SKU-004</strong></td>
+                        <td>Dual-Motor Electric Standing Desk 60in</td>
+                        <td>Office & Productivity</td>
+                        <td>17.6 days</td>
+                        <td>63.7</td>
+                        <td>32</td>
+                        <td><strong>192</strong></td>
+                        <td>96</td>
+                        <td><span class="badge badge-danger">HIGH RISK</span></td>
+                        <td style='color: var(--danger); font-weight: 700;'>$47,904.00</td>
+                        <td><strong>111 units</strong></td>
+                    </tr>
+                    <tr>
+                        <td><strong>SKU-003</strong></td>
+                        <td>Executive Ergonomic High-Back Chair</td>
+                        <td>Office & Productivity</td>
+                        <td>17.6 days</td>
+                        <td>75.5</td>
+                        <td>40</td>
+                        <td><strong>230</strong></td>
+                        <td>396</td>
+                        <td><span class="badge badge-success">HEALTHY</span></td>
+                        <td style='color: var(--text-muted);'>$0.00</td>
+                        <td><strong>0 units</strong></td>
+                    </tr>
+                    <tr>
+                        <td><strong>SKU-006</strong></td>
+                        <td>Smart Auto-Empty Robotic Vacuum</td>
+                        <td>Home & Kitchen</td>
+                        <td>14.6 days</td>
+                        <td>77.4</td>
+                        <td>47</td>
+                        <td><strong>209</strong></td>
+                        <td>172</td>
+                        <td><span class="badge badge-danger">HIGH RISK</span></td>
+                        <td style='color: var(--danger); font-weight: 700;'>$14,799.63</td>
+                        <td><strong>121 units</strong></td>
+                    </tr>
+                    <tr>
+                        <td><strong>SKU-005</strong></td>
+                        <td>Precision Barista Espresso Machine</td>
+                        <td>Home & Kitchen</td>
+                        <td>14.6 days</td>
+                        <td>69.4</td>
+                        <td>45</td>
+                        <td><strong>190</strong></td>
+                        <td>239</td>
+                        <td><span class="badge badge-success">HEALTHY</span></td>
+                        <td style='color: var(--text-muted);'>$0.00</td>
+                        <td><strong>0 units</strong></td>
+                    </tr>
+                    <tr>
+                        <td><strong>SKU-010</strong></td>
+                        <td>Women's Down Insulated Winter Parka</td>
+                        <td>Apparel & Footwear</td>
+                        <td>11.5 days</td>
+                        <td>123.4</td>
+                        <td>75</td>
+                        <td><strong>279</strong></td>
+                        <td>384</td>
+                        <td><span class="badge badge-success">HEALTHY</span></td>
+                        <td style='color: var(--text-muted);'>$0.00</td>
+                        <td><strong>0 units</strong></td>
+                    </tr>
+                    <tr>
+                        <td><strong>SKU-007</strong></td>
+                        <td>Ultra Lightweight 4-Season Backpacking Tent</td>
+                        <td>Outdoor & Sports</td>
+                        <td>9.5 days</td>
+                        <td>59.9</td>
+                        <td>55</td>
+                        <td><strong>136</strong></td>
+                        <td>265</td>
+                        <td><span class="badge badge-success">HEALTHY</span></td>
+                        <td style='color: var(--text-muted);'>$0.00</td>
+                        <td><strong>0 units</strong></td>
+                    </tr>
+                    <tr>
+                        <td><strong>SKU-009</strong></td>
+                        <td>Men's Waterproof Trail Running Shoe</td>
+                        <td>Apparel & Footwear</td>
+                        <td>11.5 days</td>
+                        <td>145.3</td>
+                        <td>65</td>
+                        <td><strong>305</strong></td>
+                        <td>597</td>
+                        <td><span class="badge badge-success">HEALTHY</span></td>
+                        <td style='color: var(--text-muted);'>$0.00</td>
+                        <td><strong>0 units</strong></td>
+                    </tr>
+                    <tr>
+                        <td><strong>SKU-015</strong></td>
+                        <td>XL 8-Quart Digital Dual-Zone Air Fryer</td>
+                        <td>Home & Kitchen</td>
+                        <td>14.6 days</td>
+                        <td>132.5</td>
+                        <td>84</td>
+                        <td><strong>360</strong></td>
+                        <td>321</td>
+                        <td><span class="badge badge-danger">HIGH RISK</span></td>
+                        <td style='color: var(--danger); font-weight: 700;'>$7,019.61</td>
+                        <td><strong>241 units</strong></td>
+                    </tr>
+                    <tr>
+                        <td><strong>SKU-011</strong></td>
+                        <td>Custom Mechanical Gaming Keyboard RGB</td>
+                        <td>Consumer Electronics</td>
+                        <td>27.5 days</td>
+                        <td>134.3</td>
+                        <td>121</td>
+                        <td><strong>649</strong></td>
+                        <td>377</td>
+                        <td><span class="badge badge-danger">HIGH RISK</span></td>
+                        <td style='color: var(--danger); font-weight: 700;'>$46,237.28</td>
+                        <td><strong>353 units</strong></td>
+                    </tr>
+                    <tr>
+                        <td><strong>SKU-013</strong></td>
+                        <td>Tri-Band WiFi 7 Mesh Router System</td>
+                        <td>Consumer Electronics</td>
+                        <td>20.6 days</td>
+                        <td>69.4</td>
+                        <td>56</td>
+                        <td><strong>261</strong></td>
+                        <td>308</td>
+                        <td><span class="badge badge-success">HEALTHY</span></td>
+                        <td style='color: var(--text-muted);'>$0.00</td>
+                        <td><strong>0 units</strong></td>
+                    </tr>
+                    <tr>
+                        <td><strong>SKU-017</strong></td>
+                        <td>Inflatable Stand Up Touring Paddleboard</td>
+                        <td>Outdoor & Sports</td>
+                        <td>9.5 days</td>
+                        <td>43.0</td>
+                        <td>37</td>
+                        <td><strong>96</strong></td>
+                        <td>49</td>
+                        <td><span class="badge badge-danger">HIGH RISK</span></td>
+                        <td style='color: var(--danger); font-weight: 700;'>$17,343.00</td>
+                        <td><strong>89 units</strong></td>
+                    </tr>
+                    <tr>
+                        <td><strong>SKU-019</strong></td>
+                        <td>High-Impact Recovery Massage Gun Pro</td>
+                        <td>Consumer Electronics</td>
+                        <td>13.6 days</td>
+                        <td>94.0</td>
+                        <td>64</td>
+                        <td><strong>247</strong></td>
+                        <td>395</td>
+                        <td><span class="badge badge-success">HEALTHY</span></td>
+                        <td style='color: var(--text-muted);'>$0.00</td>
+                        <td><strong>0 units</strong></td>
+                    </tr>
+                    <tr>
+                        <td><strong>SKU-020</strong></td>
+                        <td>All-Weather Gore-Tex Hardshell Jacket</td>
+                        <td>Apparel & Footwear</td>
+                        <td>11.5 days</td>
+                        <td>60.6</td>
+                        <td>18</td>
+                        <td><strong>118</strong></td>
+                        <td>146</td>
+                        <td><span class="badge badge-success">HEALTHY</span></td>
+                        <td style='color: var(--text-muted);'>$0.00</td>
+                        <td><strong>0 units</strong></td>
+                    </tr>
+                    <tr>
+                        <td><strong>SKU-008</strong></td>
+                        <td>Carbon Fiber Road Cycling Helmet</td>
+                        <td>Outdoor & Sports</td>
+                        <td>9.5 days</td>
+                        <td>75.7</td>
+                        <td>58</td>
+                        <td><strong>161</strong></td>
+                        <td>94</td>
+                        <td><span class="badge badge-danger">HIGH RISK</span></td>
+                        <td style='color: var(--danger); font-weight: 700;'>$12,696.50</td>
+                        <td><strong>178 units</strong></td>
+                    </tr>
+                    <tr>
+                        <td><strong>SKU-012</strong></td>
+                        <td>4K Ultra-HD Streaming Conference Webcam</td>
+                        <td>Consumer Electronics</td>
+                        <td>27.5 days</td>
+                        <td>132.8</td>
+                        <td>48</td>
+                        <td><strong>570</strong></td>
+                        <td>1158</td>
+                        <td><span class="badge badge-success">HEALTHY</span></td>
+                        <td style='color: var(--text-muted);'>$0.00</td>
+                        <td><strong>0 units</strong></td>
+                    </tr>
+                    <tr>
+                        <td><strong>SKU-016</strong></td>
+                        <td>Commercial Grade 14-Piece Cookware Set</td>
+                        <td>Home & Kitchen</td>
+                        <td>14.6 days</td>
+                        <td>55.1</td>
+                        <td>34</td>
+                        <td><strong>149</strong></td>
+                        <td>267</td>
+                        <td><span class="badge badge-success">HEALTHY</span></td>
+                        <td style='color: var(--text-muted);'>$0.00</td>
+                        <td><strong>0 units</strong></td>
+                    </tr>
+                    <tr>
+                        <td><strong>SKU-018</strong></td>
+                        <td>Merino Wool Thermal Base Layer Top</td>
+                        <td>Apparel & Footwear</td>
+                        <td>11.5 days</td>
+                        <td>209.3</td>
+                        <td>121</td>
+                        <td><strong>466</strong></td>
+                        <td>579</td>
+                        <td><span class="badge badge-success">HEALTHY</span></td>
+                        <td style='color: var(--text-muted);'>$0.00</td>
+                        <td><strong>0 units</strong></td>
+                    </tr>
+                    <tr>
+                        <td><strong>SKU-014</strong></td>
+                        <td>Heavy-Duty Dual Monitor Desk Mount</td>
+                        <td>Office & Productivity</td>
+                        <td>17.6 days</td>
+                        <td>116.0</td>
+                        <td>39</td>
+                        <td><strong>330</strong></td>
+                        <td>529</td>
+                        <td><span class="badge badge-success">HEALTHY</span></td>
+                        <td style='color: var(--text-muted);'>$0.00</td>
+                        <td><strong>0 units</strong></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        // 1. Forecast Chart
+        const dates = ["2023-01-02", "2023-01-09", "2023-01-16", "2023-01-23", "2023-01-30", "2023-02-06", "2023-02-13", "2023-02-20", "2023-02-27", "2023-03-06", "2023-03-13", "2023-03-20", "2023-03-27", "2023-04-03", "2023-04-10", "2023-04-17", "2023-04-24", "2023-05-01", "2023-05-08", "2023-05-15", "2023-05-22", "2023-05-29", "2023-06-05", "2023-06-12", "2023-06-19", "2023-06-26", "2023-07-03", "2023-07-10", "2023-07-17", "2023-07-24", "2023-07-31", "2023-08-07", "2023-08-14", "2023-08-21", "2023-08-28", "2023-09-04", "2023-09-11", "2023-09-18", "2023-09-25", "2023-10-02", "2023-10-09", "2023-10-16", "2023-10-23", "2023-10-30", "2023-11-06", "2023-11-13", "2023-11-20", "2023-11-27", "2023-12-04", "2023-12-11", "2023-12-18", "2023-12-25", "2024-01-01", "2024-01-08", "2024-01-15", "2024-01-22", "2024-01-29", "2024-02-05", "2024-02-12", "2024-02-19", "2024-02-26", "2024-03-04", "2024-03-11", "2024-03-18", "2024-03-25", "2024-04-01", "2024-04-08", "2024-04-15", "2024-04-22", "2024-04-29", "2024-05-06", "2024-05-13", "2024-05-20", "2024-05-27", "2024-06-03", "2024-06-10", "2024-06-17", "2024-06-24", "2024-07-01", "2024-07-08", "2024-07-15", "2024-07-22", "2024-07-29", "2024-08-05", "2024-08-12", "2024-08-19", "2024-08-26", "2024-09-02", "2024-09-09", "2024-09-16", "2024-09-23", "2024-09-30", "2024-10-07", "2024-10-14", "2024-10-21", "2024-10-28", "2024-11-04", "2024-11-11", "2024-11-18", "2024-11-25", "2024-12-02", "2024-12-09", "2024-12-16", "2024-12-23", "2024-12-30", "2025-01-06", "2025-01-13", "2025-01-20", "2025-01-27", "2025-02-03", "2025-02-10", "2025-02-17", "2025-02-24", "2025-03-03", "2025-03-10", "2025-03-17", "2025-03-24"];
+        const actuals = [87.0, 77.0, 102.0, 91.0, 103.0, 91.0, 101.0, 82.0, 112.0, 97.0, 84.0, 112.0, 101.0, 99.0, 97.0, 80.0, 94.0, 103.0, 126.0, 93.0, 119.0, 95.0, 98.0, 99.0, 98.0, 79.0, 91.0, 86.0, 86.0, 89.0, 97.0, 101.0, 108.0, 109.0, 100.0, 126.0, 116.0, 89.0, 99.0, 98.0, 119.0, 110.0, 99.0, 128.0, 179.0, 197.0, 190.0, 184.0, 197.0, 188.0, 160.0, 175.0, 105.0, 112.0, 103.0, 92.0, 90.0, 102.0, 113.0, 87.0, 94.0, 113.0, 137.0, 98.0, 118.0, 81.0, 98.0, 96.0, 111.0, 113.0, 100.0, 117.0, 71.0, 127.0, 89.0, 111.0, 130.0, 115.0, 109.0, 119.0, 109.0, 115.0, 117.0, 111.0, 97.0, 108.0, 114.0, 115.0, 139.0, 103.0, 116.0, 113.0, 104.0, 120.0, 108.0, 132.0, 189.0, 228.0, 194.0, 202.0, 198.0, 202.0, 174.0, 189.0, null, null, null, null, null, null, null, null, null, null, null, null, null];
+        const forecasts = [127.6, 121.4, 114.9, 108.3, 101.9, 96.0, 90.9, 86.7, 83.6, 81.6, 80.9, 81.2, 82.5, 84.6, 87.4, 90.4, 93.6, 96.6, 99.2, 101.3, 102.6, 103.2, 102.9, 101.8, 100.1, 97.8, 95.2, 92.5, 90.0, 87.8, 86.3, 85.7, 86.1, 87.6, 90.3, 94.3, 99.3, 105.3, 112.0, 119.2, 126.7, 134.0, 141.0, 147.2, 152.4, 156.4, 159.0, 160.2, 159.7, 157.9, 154.6, 150.1, 144.7, 138.5, 132.0, 125.4, 119.0, 113.1, 108.0, 103.8, 100.7, 98.7, 98.0, 98.3, 99.6, 101.8, 104.5, 107.5, 110.7, 113.7, 116.3, 118.4, 119.7, 120.3, 120.0, 119.0, 117.2, 114.9, 112.3, 109.6, 107.1, 104.9, 103.4, 102.8, 103.2, 104.7, 107.4, 111.4, 116.4, 122.4, 129.1, 136.3, 143.8, 151.1, 158.1, 164.3, 169.5, 173.5, 176.1, 177.3, 176.9, 175.0, 171.7, 167.2, 161.8, 155.6, 149.1, 142.5, 136.1, 130.2, 125.1, 120.9, 117.8, 115.9, 115.1, 115.4, 116.7];
+        const upperCI = [155.1, 148.9, 142.4, 135.8, 129.4, 123.5, 118.4, 114.2, 111.1, 109.2, 108.4, 108.7, 110.0, 112.2, 114.9, 117.9, 121.1, 124.1, 126.7, 128.8, 130.1, 130.7, 130.4, 129.4, 127.6, 125.4, 122.8, 120.1, 117.5, 115.4, 113.9, 113.2, 113.6, 115.1, 117.9, 121.8, 126.8, 132.8, 139.5, 146.8, 154.2, 161.6, 168.5, 174.7, 179.9, 183.9, 186.5, 187.7, 187.3, 185.4, 182.1, 177.6, 172.2, 166.0, 159.5, 152.9, 146.5, 140.6, 135.5, 131.3, 128.2, 126.3, 125.5, 125.8, 127.1, 129.3, 132.0, 135.0, 138.2, 141.2, 143.8, 145.9, 147.2, 147.8, 147.5, 146.5, 144.7, 142.5, 139.9, 137.2, 134.6, 132.5, 131.0, 130.3, 130.7, 132.2, 135.0, 138.9, 143.9, 149.9, 156.6, 163.9, 171.3, 178.7, 185.6, 191.8, 197.0, 201.0, 203.6, 204.8, 204.4, 202.5, 199.2, 194.7, 189.3, 183.2, 176.6, 170.0, 163.6, 157.7, 152.6, 148.4, 145.3, 143.4, 142.6, 142.9, 144.3];
+        const lowerCI = [100.1, 93.9, 87.4, 80.8, 74.4, 68.5, 63.3, 59.2, 56.1, 54.1, 53.4, 53.7, 55.0, 57.1, 59.8, 62.9, 66.1, 69.1, 71.7, 73.7, 75.1, 75.6, 75.4, 74.3, 72.6, 70.3, 67.7, 65.0, 62.5, 60.3, 58.8, 58.2, 58.6, 60.1, 62.8, 66.7, 71.8, 77.8, 84.5, 91.7, 99.2, 106.5, 113.5, 119.7, 124.9, 128.9, 131.5, 132.6, 132.2, 130.3, 127.1, 122.6, 117.2, 111.0, 104.5, 97.9, 91.5, 85.6, 80.4, 76.3, 73.2, 71.2, 70.5, 70.8, 72.1, 74.2, 76.9, 80.0, 83.2, 86.2, 88.8, 90.8, 92.2, 92.8, 92.5, 91.4, 89.7, 87.4, 84.8, 82.1, 79.6, 77.4, 75.9, 75.3, 75.7, 77.2, 79.9, 83.8, 88.9, 94.9, 101.6, 108.8, 116.3, 123.6, 130.6, 136.8, 142.0, 146.0, 148.6, 149.7, 149.3, 147.4, 144.2, 139.7, 134.3, 128.1, 121.6, 115.0, 108.6, 102.7, 97.5, 93.4, 90.3, 88.3, 87.6, 87.9, 89.2];
+
+        new Chart(document.getElementById('forecastChart'), {
+            type: 'line',
+            data: {
+                labels: dates,
+                datasets: [
+                    {
+                        label: 'Actual Demand',
+                        data: actuals,
+                        borderColor: '#2C3E50',
+                        backgroundColor: '#2C3E50',
+                        borderWidth: 1.5,
+                        pointRadius: 0
+                    },
+                    {
+                        label: 'Model Forecast',
+                        data: forecasts,
+                        borderColor: '#1F4E79',
+                        backgroundColor: '#1F4E79',
+                        borderWidth: 2.2,
+                        pointRadius: 0
+                    },
+                    {
+                        label: 'Upper 80% CI',
+                        data: upperCI,
+                        borderColor: 'rgba(231, 76, 60, 0.4)',
+                        borderDash: [4, 4],
+                        pointRadius: 0,
+                        fill: false
+                    },
+                    {
+                        label: 'Lower 80% CI',
+                        data: lowerCI,
+                        borderColor: 'rgba(231, 76, 60, 0.4)',
+                        borderDash: [4, 4],
+                        pointRadius: 0,
+                        fill: false
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: { ticks: { maxTicksLimit: 12, font: { size: 10 } } },
+                    y: { title: { display: true, text: 'Units Sold' } }
+                }
+            }
+        });
+
+        // 2. Category Risk Bar Chart
+        new Chart(document.getElementById('categoryRiskChart'), {
+            type: 'bar',
+            data: {
+                labels: ["Consumer Electronics", "Office & Productivity", "Outdoor & Sports", "Home & Kitchen", "Apparel & Footwear"],
+                datasets: [{
+                    label: 'Revenue at Risk ($)',
+                    data: [111965.06, 47904.0, 30039.5, 21819.239999999998, 0.0],
+                    backgroundColor: '#E74C3C',
+                    borderRadius: 4
+                }]
+            },
+            options: {
+                indexAxis: 'y',
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: { legend: { display: false } },
+                scales: { x: { ticks: { callback: v => '$' + (v/1000) + 'k' } } }
+            }
+        });
+
+        // 3. Pareto Chart
+        new Chart(document.getElementById('paretoChart'), {
+            type: 'bar',
+            data: {
+                labels: ["Pro Active Noise-Cancelling Headphones", "Smart Fitness GPS Watch Ultra", "Dual-Motor Electric Standing Desk 60in", "Executive Ergonomic High-Back Chair", "Smart Auto-Empty Robotic Vacuum", "Precision Barista Espresso Machine", "Women's Down Insulated Winter Parka", "Ultra Lightweight 4-Season Backpacking Tent", "Men's Waterproof Trail Running Shoe", "XL 8-Quart Digital Dual-Zone Air Fryer", "Custom Mechanical Gaming Keyboard RGB", "Tri-Band WiFi 7 Mesh Router System", "Inflatable Stand Up Touring Paddleboard", "High-Impact Recovery Massage Gun Pro", "All-Weather Gore-Tex Hardshell Jacket"],
+                datasets: [
+                    {
+                        type: 'line',
+                        label: 'Cumulative Revenue %',
+                        data: [5.43, 10.83, 15.58, 20.28, 24.84, 29.31, 33.24, 37.03, 40.65, 44.12, 47.54, 50.94, 54.26, 57.25, 60.11],
+                        borderColor: '#E74C3C',
+                        borderWidth: 2,
+                        yAxisID: 'y1',
+                        pointRadius: 3
+                    },
+                    {
+                        type: 'bar',
+                        label: 'Revenue ($k)',
+                        data: [3412.8, 3397.7, 2984.5, 2954.8, 2862.7, 2815.2, 2465.8, 2384.2, 2275.4, 2179.5, 2155.1, 2136.0, 2085.2, 1882.1, 1796.7],
+                        backgroundColor: '#1F4E79',
+                        yAxisID: 'y',
+                        borderRadius: 4
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: { ticks: { maxRotation: 45, minRotation: 45, font: { size: 9 } } },
+                    y: { title: { display: true, text: 'Revenue ($k)' } },
+                    y1: { position: 'right', min: 0, max: 100, ticks: { callback: v => v + '%' }, grid: { drawOnChartArea: false } }
+                }
+            }
+        });
+
+        // 4. Donut Chart
+        new Chart(document.getElementById('riskDonutChart'), {
+            type: 'doughnut',
+            data: {
+                labels: ['High Risk (Deficit)', 'Healthy Buffer'],
+                datasets: [{
+                    data: [8, 12],
+                    backgroundColor: ['#E74C3C', '#2ECC71'],
+                    borderWidth: 0
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: { legend: { position: 'bottom' } }
+            }
+        });
+
+        // Table Filter Function
+        function filterTable() {
+            const search = document.getElementById('searchInput').value.toUpperCase();
+            const status = document.getElementById('statusFilter').value;
+            const rows = document.getElementById('reorderTable').getElementsByTagName('tbody')[0].getElementsByTagName('tr');
+            
+            for (let row of rows) {
+                const text = row.innerText.toUpperCase();
+                const rowStatus = row.cells[8].innerText.trim();
+                const matchSearch = text.includes(search);
+                const matchStatus = (status === 'ALL') || (rowStatus === status);
+                row.style.display = (matchSearch && matchStatus) ? '' : 'none';
+            }
+        }
+    </script>
+</body>
+</html>

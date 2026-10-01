@@ -14,9 +14,9 @@ env/
 venv/
 ENV/
 
-# Large raw datasets or temp files (if needed)
-# data/raw/*.zip
-# data/raw/*.tar.gz
+# Temporary Excel lock files
+~$*.xlsx
+*.tmp
 
 # OS specific files
 .DS_Store
